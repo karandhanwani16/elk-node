@@ -1,0 +1,13 @@
+{
+  "name": "elk-demo-app",
+  "version": "1.0.0",
+  "description": "Node.js app with file logging for ELK stack demonstration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
